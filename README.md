@@ -8,6 +8,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... akshay365@icloud.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am from Pune
--->

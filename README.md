@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 -  I’m currently working on Data Science projects and Software Engineering
--  I am currently contributing to [a link] (https://github.com/benawad/dogehouse)
+-  I am currently contributing to https://github.com/benawad/dogehouse
 - 🌱 I’m currently learning Docker
 - 🧩 I’m looking to collaborate on React projects
 - 🤔 I’m looking for help with ...
